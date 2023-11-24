@@ -1,0 +1,18 @@
+#a{
+    color:aliceblue;
+    font-size:1.3rem;
+    font-weight:500;
+}
+#button{
+    background-color:#17a2b8  !important;
+    color:aliceblue;
+    font-size:1.3rem;
+    font-weight: 500;
+}
+#out{
+    margin-top:3rem;
+    background-color:hsla(188, 78%, 41%, 0.381)   !important;
+    align-items: center    !important;
+    padding-bottom:7rem;
+    border-radius:10px;
+}

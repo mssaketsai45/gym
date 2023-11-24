@@ -1,0 +1,46 @@
+.sidebar {
+    display:flex;
+    flex-direction: column;
+    width:20vw;
+    background-color:rgb(42,42,42);
+    height:100vh;
+    align-items: flex-start;
+  }
+  .sidebar button {
+    padding: 32px 32px 32px 32px;
+    text-decoration: none;
+    font-size: 25px;
+    font-weight: 700;
+    color: white;
+    display: block;
+    transition: 0.3s;
+  }
+  
+  .sidebar button:hover {
+    color: #17a2b8;
+  }
+  .sidebar .link{
+    text-decoration: none;
+    color: white;
+  }
+  .total{
+    display:flex;
+  }
+  .main1{
+    padding:35px;
+    background-color: #04040489;
+    width:75vw;
+  }
+  .container{
+    padding:2px;
+    border-radius:15px;
+    background-color:#17a2b8;
+  }
+  .container h3{
+    color: aliceblue;
+
+  }
+  .container table{
+    color: aliceblue;
+  }
+  
